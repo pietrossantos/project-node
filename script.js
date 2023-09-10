@@ -12,7 +12,7 @@ console.log("String -> Na sua essência, todos os dados do tipo string são text
 console.log("Number -> Dados do tipo númerico (numeros) no javascript não é necessário colocar aspas para números, apenas escrever o número e ele identifica automaticamente. identifica somente números inteiro ou números com ponto no caso 15.7, 7.5, 8.2");
 console.log("Boolean (Booleanos) -> Em sua essência são dados verdadeiros (true) ou falsos (false)");
 
-
+// lorem ipsun
 
 const compras = 16;
 
