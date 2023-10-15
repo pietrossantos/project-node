@@ -5,7 +5,7 @@ let right = true;
 
 console.log(comida, number, right);
 
-prompt('sejaa bem vindo')
+prompt('seja bem vindo')
 
 
 console.log("String -> Na sua essência, todos os dados do tipo string são textos, seja uma palavra, uma frase, caracteres... para serem considerados dados do tipo string as informações tem que estar envolvidas entre aspas, seja aspas duplas  ou aspas simples '' ");
